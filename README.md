@@ -19,8 +19,8 @@ Open your terminal and run the following commands:
 cd /path/to/my-project.test
 
 # tell Composer to load the plugin
-composer require fostercommerce/craft-settings-menu-item
+composer require fostercommerce/global-content-menu-item
 
 # tell Craft to install the plugin
-./craft plugin/install settings-menu-item
+./craft plugin/install global-content-menu-item
 ```
